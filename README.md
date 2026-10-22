@@ -4,7 +4,7 @@ A web application built with **Streamlit** that uses a machine learning model to
 
 ## 🌐 Live Application
 
-**Try the application here:** [Add the deployed application URL here](YOUR_STREAMLIT_APP_URL)
+**Try the application here:** [https://botvshuman-botdetectiondashboard.streamlit.app/](YOUR_STREAMLIT_APP_URL)
 
 *The link will be updated once the application is deployed.*
 
